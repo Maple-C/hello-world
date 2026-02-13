@@ -1,1 +1,1 @@
-This is a README.md file for my CS class. 
+This is a README.md file for the CS assigment with Github. 
